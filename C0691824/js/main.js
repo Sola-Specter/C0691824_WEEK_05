@@ -2,7 +2,7 @@
 
 function myFunction(a, b) {
     sum = a + b;
-    console.log("The sum a and b is " + sum);
+    console.log("The sum a and b is " + sum); 
 }
 
 
